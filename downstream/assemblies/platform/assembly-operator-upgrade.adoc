@@ -1,7 +1,6 @@
-
 ifdef::context[:parent-context: {context}]
 
-[id="operator-upgrade_{context}"]
+[id="operator-upgrade"]
 
 = Upgrading {OperatorPlatform} on {OCPShort}
 
@@ -9,6 +8,7 @@ ifdef::context[:parent-context: {context}]
 
 [role="_abstract"]
 
+YYY context is {context} and parent-context is {parent-context}
 The {OperatorPlatform} simplifies the installation, upgrade and deployment of new {PlatformName} instances in your {OCPShort} environment.
 
 include::platform/con-operator-upgrade-considerations.adoc[leveloffset=+1]
