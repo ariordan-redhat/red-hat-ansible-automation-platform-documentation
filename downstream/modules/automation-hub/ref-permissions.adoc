@@ -13,6 +13,7 @@ Permissions provide a defined set of actions each group performs on a given obje
 h| collection namespaces |
 
 Add namespace
+Add namespace
 
 Upload to namespace
 
